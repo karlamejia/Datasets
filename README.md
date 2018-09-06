@@ -2,7 +2,7 @@
 Includes epidemiological, environmental, and Google Trends data from African countries.
 
 ## Epidemiological Data
-* The weekly influenza data for various African countries were obtained from the [WHO](http://www.who.int/)'s [FluNet](http://apps.who.int/flumart/Default?ReportNo=12) database
+* The weekly influenza data for various countries were obtained from the [WHO](http://www.who.int/)'s [FluNet](http://apps.who.int/flumart/Default?ReportNo=12) database
 * The cholera data for West and Central African countries were obtained from [The Regional Cholera Platform in West and Central Africa](http://www.plateformecholera.info/index.php/wac-platform) via [The Humanitarian Data Exchange](https://data.humdata.org/organization/rcpwca?sort=metadata_modified+desc)
 * The measles data for Nigeria were obtained from the [Nigeria Centre for Disease Control](https://ncdc.gov.ng/data)
 
