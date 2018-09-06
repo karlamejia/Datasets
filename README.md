@@ -6,4 +6,4 @@ Includeds epidemiological, environmental, and Google Trends data from African co
 * The cholera data were obtained from [The Regional Cholera Platform in West and Central Africa](http://www.plateformecholera.info/index.php/wac-platform) via [The Humanitarian Data Exchange](https://data.humdata.org/organization/rcpwca?sort=metadata_modified+desc)
 
 ## Miscellaneous Data
-* The weeks numbers for each year were obtained from [EpochConverter](https://www.epochconverter.com/weeks/)
+* The week numbers for each year were obtained from [EpochConverter](https://www.epochconverter.com/weeks/)
