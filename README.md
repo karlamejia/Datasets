@@ -6,5 +6,9 @@ Includes epidemiological, environmental, and Google Trends data from African cou
 * The cholera data for West and Central African countries were obtained from [The Regional Cholera Platform in West and Central Africa](http://www.plateformecholera.info/index.php/wac-platform) via [The Humanitarian Data Exchange](https://data.humdata.org/organization/rcpwca?sort=metadata_modified+desc)
 * The measles data for Nigeria were obtained from the [Nigeria Centre for Disease Control](https://ncdc.gov.ng/data)
 
+## Environmental Data
+
+## Google Trends Data
+
 ## Miscellaneous Data
 * The week numbers for each year were obtained from [EpochConverter](https://www.epochconverter.com/weeks/)
