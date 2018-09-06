@@ -6,6 +6,7 @@ Include epidemiological, environmental, and Google Trends data from African coun
 * The weekly cholera data for West and Central African countries were obtained from [The Regional Cholera Platform in West and Central Africa](http://www.plateformecholera.info/index.php/wac-platform) via [The Humanitarian Data Exchange](https://data.humdata.org/organization/rcpwca?sort=metadata_modified+desc)
 * The yearly cholera data for South Africa, Nigeria, and Ghana were obtained from the [Cholera Dynamics](http://www.iddynamics.jhsph.edu/projects/cholera-dynamics/data?iso=All&region=AFR&start=&end=) project at [Infectious Disease Dynamics](http://www.iddynamics.jhsph.edu/who-we-are) from the [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu/)
 * The weekly measles data for Nigeria were obtained from the [Nigeria Centre for Disease Control](https://ncdc.gov.ng/data)
+* The yearly yellow fever data for various countries were obtained from the [WHO](http://www.who.int/immunization/monitoring_surveillance/data/en/).
 
 ## Environmental
 
