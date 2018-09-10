@@ -11,6 +11,7 @@ Include epidemiological, environmental, and Google Trends data from African coun
 ## Environmental
 
 ## Google Trends
+* The weekly relative search interest data for influenza-related terms in South Africa were obtained from [Google Trends](https://trends.google.com/trends/)
 
 ## Miscellaneous
 * The week numbers for each year were obtained from [EpochConverter](https://www.epochconverter.com/weeks/)
