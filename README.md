@@ -1,5 +1,5 @@
 # Datasets
-The datasets consist of epidemiological, environmental, and Google Trends data from African countries.
+The datasets consist of epidemiological, environmental, and Google Trends data from various African countries.
 
 ## Epidemiological
 * The weekly influenza data for various countries were obtained from the [WHO](http://www.who.int/)'s [FluNet](http://apps.who.int/flumart/Default?ReportNo=12) database
