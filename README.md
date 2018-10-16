@@ -1,5 +1,5 @@
 # Datasets
-The datasets consist of epidemiological, environmental, geographic and Google Trends data from various African countries.
+The datasets consist of epidemiological, environmental, geographic, and Google Trends data from various African countries.
 
 ## Epidemiological
 * The weekly influenza data for various countries were obtained from the [WHO](http://www.who.int/)'s [FluNet](http://apps.who.int/flumart/Default?ReportNo=12) database
@@ -14,7 +14,7 @@ The datasets consist of epidemiological, environmental, geographic and Google Tr
 * The weekly relative search interest data for influenza-related terms in South Africa were obtained from [Google Trends](https://trends.google.com/trends/)
 
 ## Geographic 
-* The centroids of each country in the world were obtained from [Harvard World Map](https://worldmap.harvard.edu/data/geonode:country_centroids_az8).
+* The centroids of each country in the world were obtained from [Harvard WorldMap](https://worldmap.harvard.edu/data/geonode:country_centroids_az8).
 
 ## Miscellaneous
 * The week numbers for each year were obtained from [EpochConverter](https://www.epochconverter.com/weeks/)
