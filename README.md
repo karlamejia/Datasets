@@ -8,13 +8,13 @@ The datasets consist of epidemiological, environmental, geographic, and Google T
 * The weekly measles data for Nigeria were obtained from the [Nigeria Centre for Disease Control](https://ncdc.gov.ng/data)
 * The yearly yellow fever data for various countries were obtained from the [WHO](http://www.who.int/immunization/monitoring_surveillance/data/en/).
 
+## Geographic 
+* The centroids of each country in the world were obtained from [Harvard WorldMap](https://worldmap.harvard.edu/data/geonode:country_centroids_az8).
+
 ## Environmental
 
 ## Google Trends
 * The weekly relative search interest data for influenza-related terms in South Africa were obtained from [Google Trends](https://trends.google.com/trends/)
-
-## Geographic 
-* The centroids of each country in the world were obtained from [Harvard WorldMap](https://worldmap.harvard.edu/data/geonode:country_centroids_az8).
 
 ## Miscellaneous
 * The week numbers for each year were obtained from [EpochConverter](https://www.epochconverter.com/weeks/)
